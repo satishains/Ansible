@@ -1,4 +1,4 @@
-- name: installing pacakages
+- name: installing packages
   hosts: target
   become: yes
   task:
