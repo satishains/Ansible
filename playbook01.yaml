@@ -1,5 +1,5 @@
 - name: "ping the server"
-  hosts: TARGET # Which server you are connecting to
+  hosts: target # Which server you are connecting to
   # List of tasks/collections/modules
   tasks:
   - name: ping
